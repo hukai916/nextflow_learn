@@ -1,3 +1,7 @@
 work/*
 test/*
 assets/*.gz
+.nextflow.log*
+null/*
+results*
+.nextflow
