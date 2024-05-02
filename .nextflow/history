@@ -109,3 +109,5 @@
 2024-05-02 01:01:32	5s	ridiculous_albattani	OK	d121efd3b9dda729244fa4662802024a	11d6931e-e712-4863-8f34-8d5710a0dd87	nextflow run main_rclone.nf -profile conda
 2024-05-02 01:01:44	7.9s	condescending_kalam	OK	d121efd3b9dda729244fa4662802024a	42103002-336f-4876-b312-ceb333da0580	nextflow run main_rclone.nf -profile docker
 2024-05-02 01:03:03	5.4s	boring_monod	OK	d121efd3b9dda729244fa4662802024a	07ff1687-8509-43a6-ac44-f15b1a4a7ba4	nextflow run main_rclone.nf
+2024-05-02 01:06:53	5.6s	hopeful_stallman	OK	d121efd3b9dda729244fa4662802024a	ef8f0fb2-1bd0-4624-97ac-07bde1b6c8d0	nextflow run main_rclone.nf
+2024-05-02 01:07:22	5.5s	adoring_goldwasser	OK	d121efd3b9dda729244fa4662802024a	a76a21b0-bc74-4800-9150-b205bc320201	nextflow run main_rclone.nf -profile conda
