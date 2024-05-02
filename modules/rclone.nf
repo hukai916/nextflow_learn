@@ -1,5 +1,5 @@
 process RCLONE {
-    label 'process_low'
+    label 'process_single'
     conda "bioconda::bwa=0.7.17"
     container "hukai916/rclone:0.1"
 
