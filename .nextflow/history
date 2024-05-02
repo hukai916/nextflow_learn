@@ -111,3 +111,8 @@
 2024-05-02 01:03:03	5.4s	boring_monod	OK	d121efd3b9dda729244fa4662802024a	07ff1687-8509-43a6-ac44-f15b1a4a7ba4	nextflow run main_rclone.nf
 2024-05-02 01:06:53	5.6s	hopeful_stallman	OK	d121efd3b9dda729244fa4662802024a	ef8f0fb2-1bd0-4624-97ac-07bde1b6c8d0	nextflow run main_rclone.nf
 2024-05-02 01:07:22	5.5s	adoring_goldwasser	OK	d121efd3b9dda729244fa4662802024a	a76a21b0-bc74-4800-9150-b205bc320201	nextflow run main_rclone.nf -profile conda
+2024-05-02 01:11:51	5.5s	lonely_sinoussi	OK	d121efd3b9dda729244fa4662802024a	b69e167e-3556-4ab9-afd5-d24a879ac6f3	nextflow run main_rclone.nf -profile conda
+2024-05-02 01:13:19	4.4s	chaotic_snyder	OK	d121efd3b9dda729244fa4662802024a	8893fe6b-e8a6-4c3c-bd52-3d6bea8169cb	nextflow run main_rclone.nf -profile conda
+2024-05-02 01:13:55	649ms	festering_morse	ERR	d121efd3b9dda729244fa4662802024a	0631e6e8-de37-4712-bb65-5d3c348c843b	nextflow run main_rclone.nf -with-conda
+2024-05-02 01:15:02	4.4s	hungry_meitner	ERR	d121efd3b9dda729244fa4662802024a	d22621a6-4e95-421f-8755-4f685e55006a	nextflow run main_rclone.nf -with-conda
+2024-05-02 01:15:13	17.6s	grave_boyd	OK	d121efd3b9dda729244fa4662802024a	4cbdf447-385e-4254-8cb0-7dc730bd6f8e	nextflow run main_rclone.nf -profile conda
