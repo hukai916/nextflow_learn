@@ -1,7 +1,7 @@
 process RCLONE {
     label 'process_single'
-    conda "conda-forge::rclone-1.65.2"
-    container "hukai916/rclone:0.2"
+    conda "conda-forge::rclone=1.65.2"
+    container "hukai916/rclone:0.2" // when running on Mac, use 0.1
 
     input:
     val x

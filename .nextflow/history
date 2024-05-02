@@ -106,3 +106,6 @@
 2024-05-01 23:57:10	1.3s	determined_hopper	OK	d121efd3b9dda729244fa4662802024a	838724dc-8688-4fb7-b4db-65069e2b77d4	nextflow run main_rclone.nf -profile docker -resume
 2024-05-01 23:57:46	799ms	kickass_meucci	OK	d121efd3b9dda729244fa4662802024a	838724dc-8688-4fb7-b4db-65069e2b77d4	nextflow run main_rclone.nf -profile docker -resume
 2024-05-02 00:00:10	1.3s	suspicious_borg	ERR	d121efd3b9dda729244fa4662802024a	838724dc-8688-4fb7-b4db-65069e2b77d4	nextflow run main_rclone.nf -profile singularity -resume
+2024-05-02 01:01:32	5s	ridiculous_albattani	OK	d121efd3b9dda729244fa4662802024a	11d6931e-e712-4863-8f34-8d5710a0dd87	nextflow run main_rclone.nf -profile conda
+2024-05-02 01:01:44	7.9s	condescending_kalam	OK	d121efd3b9dda729244fa4662802024a	42103002-336f-4876-b312-ceb333da0580	nextflow run main_rclone.nf -profile docker
+2024-05-02 01:03:03	5.4s	boring_monod	OK	d121efd3b9dda729244fa4662802024a	07ff1687-8509-43a6-ac44-f15b1a4a7ba4	nextflow run main_rclone.nf
