@@ -123,3 +123,12 @@
 2024-09-26 21:38:03	7.9s	sick_planck	OK	1e1db351b9ba7804526184944def72d3	6fb9edc1-6b0e-4435-aecb-6ea281cb6903	nextflow run main_sole.nf -c main_sole.config
 2024-09-26 21:38:26	-	condescending_cajal	-	5f6bdc06cd47808f7ce25ec31c9f869b	04063949-9d43-434e-b062-c8c144c224c3	nextflow run main_sole.nf -c main_sole.config
 2024-09-26 21:38:50	6.2s	jolly_lovelace	ERR	e221995d7698f4435014b37461718541	e0cf8b5d-7780-4a10-b78b-f4bab6050c77	nextflow run main_sole.nf -c main_sole.config
+2024-09-26 22:08:58	-	scruffy_torricelli	-	bd0b15da31d4aa1a39676060adf05c0d	de29a08f-53f4-4b4e-8198-c1980ca97bbb	nextflow run main_sole.config -c main_sole.config
+2024-09-26 22:09:47	6.9s	wise_panini	ERR	e221995d7698f4435014b37461718541	c4746596-a476-46b3-879d-cc03e00f657c	nextflow run main_sole.nf -c main_sole.config
+2024-09-26 22:11:18	5.9s	irreverent_perlman	ERR	e221995d7698f4435014b37461718541	d5c99717-9dd0-45cb-8ea1-010c4f77815b	nextflow run main_sole.nf -c main_sole.config
+2024-09-26 22:11:32	5.7s	maniac_lorenz	ERR	b59123cc529e0ee798e9fee2bd3bae90	51d76e90-b30d-4633-9a2b-3e98d6f5e878	nextflow run main_sole.nf -c main_sole.config
+2024-09-26 22:11:57	5.7s	spontaneous_aryabhata	ERR	b59123cc529e0ee798e9fee2bd3bae90	7910a32c-a4db-4cf2-8b44-f556b357bbc8	nextflow run main_sole.nf -c main_sole.config -profile conda
+2024-09-26 22:13:24	2.5s	admiring_stallman	ERR	b59123cc529e0ee798e9fee2bd3bae90	97c198cd-d1b6-4211-b81b-1f720e4332f5	nextflow run main_sole.nf -c main_sole.config -profile docker
+2024-09-26 22:13:55	5m 55s	cheeky_goldstine	OK	b59123cc529e0ee798e9fee2bd3bae90	8180310d-f7bf-442c-9296-48dfae8318dc	nextflow run main_sole.nf -c main_sole.config -profile docker
+2024-09-26 22:25:33	5.6s	small_shaw	ERR	b2fcf93123dbc13d8a5da22b5dcc682a	8180310d-f7bf-442c-9296-48dfae8318dc	nextflow run main_sole.nf -c main_sole.config -profile docker -resume 8180310d-f7bf-442c-9296-48dfae8318dc
+2024-09-26 22:25:49	2.6s	pensive_kare	OK	c8ef431b83a1c01dd5d38a1d0f16b2cb	8180310d-f7bf-442c-9296-48dfae8318dc	nextflow run main_sole.nf -c main_sole.config -profile docker -resume 8180310d-f7bf-442c-9296-48dfae8318dc

@@ -31,23 +31,18 @@ process FASTQC {
 
 
 process MULTIQC {
-
+   publishDir "${projectDir}/multiqc", mode: 'copy'
    container 'ghcr.io/multiqc/multiqc'
 
-
    output:
-
-   file "multiqc_report.html"
-
-   file "multiqc_data"
-
-
+    file "multiqc_report.html"
+    file "multiqc_data"
 
    script:
 
    """
 
-   multiqc $projectDir
+   multiqc "$projectDir"
 
    """
 

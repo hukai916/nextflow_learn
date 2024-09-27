@@ -1,0 +1,3 @@
+Sample	Unique Reads
+sample1	23.0
+sample2	23.0

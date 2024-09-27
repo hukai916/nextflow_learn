@@ -1,0 +1,2 @@
+[2024-09-27 02:19:47,233] multiqc.core.file_search                           [INFO   ]  Search path: /Users/kaihu/Dropbox (UMass Medical School)/GitHub/nextflow_learn
+[2024-09-27 02:19:49,484] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 2 reports
