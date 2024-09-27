@@ -42,7 +42,7 @@ process MULTIQC {
 
    """
 
-   multiqc "$projectDir"
+   multiqc "$projectDir/fastqc"
 
    """
 
