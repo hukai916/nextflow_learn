@@ -34,6 +34,9 @@ process MULTIQC {
    publishDir "${projectDir}/multiqc", mode: 'copy'
    container 'ghcr.io/multiqc/multiqc'
 
+   input:
+    path(res)
+
    output:
     file "multiqc_report.html"
     file "multiqc_data"
@@ -41,8 +44,7 @@ process MULTIQC {
    script:
 
    """
-
-   multiqc "$projectDir/fastqc"
+   multiqc $res
 
    """
 
@@ -67,6 +69,6 @@ workflow {
    // Run the FastQC process using the paired files
    read_files_fastqc | FASTQC
 
-   MULTIQC()
+   MULTIQC(FASTQC.out)
 
 }

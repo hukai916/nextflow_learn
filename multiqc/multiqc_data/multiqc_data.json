@@ -2,8 +2,8 @@
     "report_data_sources": {
         "FastQC": {
             "all_sections": {
-                "sample1": "/Users/kaihu/Dropbox (UMass Medical School)/GitHub/nextflow_learn/fastqc/sample1_fastqc.zip",
-                "sample2": "/Users/kaihu/Dropbox (UMass Medical School)/GitHub/nextflow_learn/fastqc/sample2_fastqc.zip"
+                "sample1": "/Users/kaihu/Dropbox (UMass Medical School)/GitHub/nextflow_learn/work/b4/11023c36c7304c7bc1edc32c5fe603/sample1_fastqc.zip",
+                "sample2": "/Users/kaihu/Dropbox (UMass Medical School)/GitHub/nextflow_learn/work/b4/11023c36c7304c7bc1edc32c5fe603/sample2_fastqc.zip"
             }
         }
     },
@@ -80,7 +80,7 @@
             }
         }
     ],
-    "report_multiqc_command": "/usr/local/bin/multiqc /Users/kaihu/Dropbox (UMass Medical School)/GitHub/nextflow_learn",
+    "report_multiqc_command": "/usr/local/bin/multiqc sample1_fastqc.html sample1_fastqc.zip sample2_fastqc.html sample2_fastqc.zip",
     "report_plot_data": {
         "fastqc_sequence_counts_plot": {
             "id": "fastqc_sequence_counts_plot",
@@ -7532,12 +7532,18 @@
         }
     },
     "config_analysis_dir_abs": [
-        "/Users/kaihu/Dropbox (UMass Medical School)/GitHub/nextflow_learn"
+        "/Users/kaihu/Dropbox (UMass Medical School)/GitHub/nextflow_learn/work/b4/11023c36c7304c7bc1edc32c5fe603/sample1_fastqc.html",
+        "/Users/kaihu/Dropbox (UMass Medical School)/GitHub/nextflow_learn/work/b4/11023c36c7304c7bc1edc32c5fe603/sample1_fastqc.zip",
+        "/Users/kaihu/Dropbox (UMass Medical School)/GitHub/nextflow_learn/work/b4/11023c36c7304c7bc1edc32c5fe603/sample2_fastqc.html",
+        "/Users/kaihu/Dropbox (UMass Medical School)/GitHub/nextflow_learn/work/b4/11023c36c7304c7bc1edc32c5fe603/sample2_fastqc.zip"
     ],
     "config_analysis_dir": [
-        "/Users/kaihu/Dropbox (UMass Medical School)/GitHub/nextflow_learn"
+        "sample1_fastqc.html",
+        "sample1_fastqc.zip",
+        "sample2_fastqc.html",
+        "sample2_fastqc.zip"
     ],
-    "config_creation_date": "2024-09-27, 02:19 UTC",
+    "config_creation_date": "2024-09-27, 03:29 UTC",
     "config_git_hash": null,
     "config_intro_text": null,
     "config_report_comment": null,
@@ -7547,5 +7553,5 @@
     "config_subtitle": null,
     "config_title": null,
     "config_version": "1.25",
-    "config_output_dir": "/Users/kaihu/Dropbox (UMass Medical School)/GitHub/nextflow_learn/work/5c/430cb8ea84638e6ba9c751fa647979"
+    "config_output_dir": "/Users/kaihu/Dropbox (UMass Medical School)/GitHub/nextflow_learn/work/b4/11023c36c7304c7bc1edc32c5fe603"
 }

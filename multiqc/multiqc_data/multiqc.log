@@ -1,2 +1,5 @@
-[2024-09-27 02:19:47,233] multiqc.core.file_search                           [INFO   ]  Search path: /Users/kaihu/Dropbox (UMass Medical School)/GitHub/nextflow_learn
-[2024-09-27 02:19:49,484] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 2 reports
+[2024-09-27 03:29:09,030] multiqc.core.file_search                           [INFO   ]  Search path: /Users/kaihu/Dropbox (UMass Medical School)/GitHub/nextflow_learn/work/b4/11023c36c7304c7bc1edc32c5fe603/sample1_fastqc.html
+[2024-09-27 03:29:09,031] multiqc.core.file_search                           [INFO   ]  Search path: /Users/kaihu/Dropbox (UMass Medical School)/GitHub/nextflow_learn/work/b4/11023c36c7304c7bc1edc32c5fe603/sample1_fastqc.zip
+[2024-09-27 03:29:09,031] multiqc.core.file_search                           [INFO   ]  Search path: /Users/kaihu/Dropbox (UMass Medical School)/GitHub/nextflow_learn/work/b4/11023c36c7304c7bc1edc32c5fe603/sample2_fastqc.html
+[2024-09-27 03:29:09,031] multiqc.core.file_search                           [INFO   ]  Search path: /Users/kaihu/Dropbox (UMass Medical School)/GitHub/nextflow_learn/work/b4/11023c36c7304c7bc1edc32c5fe603/sample2_fastqc.zip
+[2024-09-27 03:29:09,185] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 2 reports

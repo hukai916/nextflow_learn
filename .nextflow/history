@@ -132,3 +132,5 @@
 2024-09-26 22:13:55	5m 55s	cheeky_goldstine	OK	b59123cc529e0ee798e9fee2bd3bae90	8180310d-f7bf-442c-9296-48dfae8318dc	nextflow run main_sole.nf -c main_sole.config -profile docker
 2024-09-26 22:25:33	5.6s	small_shaw	ERR	b2fcf93123dbc13d8a5da22b5dcc682a	8180310d-f7bf-442c-9296-48dfae8318dc	nextflow run main_sole.nf -c main_sole.config -profile docker -resume 8180310d-f7bf-442c-9296-48dfae8318dc
 2024-09-26 22:25:49	2.6s	pensive_kare	OK	c8ef431b83a1c01dd5d38a1d0f16b2cb	8180310d-f7bf-442c-9296-48dfae8318dc	nextflow run main_sole.nf -c main_sole.config -profile docker -resume 8180310d-f7bf-442c-9296-48dfae8318dc
+2024-09-26 23:21:18	7.7s	nostalgic_lichterman	ERR	06f26eedf8149ac867c4b297dddaaef4	e95fb4f3-d8ac-456c-b194-edb974092c96	nextflow run main_sole.nf -c main_sole.config -profile docker
+2024-09-26 23:28:54	16.3s	angry_rosalind	OK	664a9d7c48c6dc83ac9ff28d0f909215	c1bf7cbf-1a60-4a89-992f-a67c8890e159	nextflow run main_sole.nf -c main_sole.config -profile docker
