@@ -134,3 +134,34 @@
 2024-09-26 22:25:49	2.6s	pensive_kare	OK	c8ef431b83a1c01dd5d38a1d0f16b2cb	8180310d-f7bf-442c-9296-48dfae8318dc	nextflow run main_sole.nf -c main_sole.config -profile docker -resume 8180310d-f7bf-442c-9296-48dfae8318dc
 2024-09-26 23:21:18	7.7s	nostalgic_lichterman	ERR	06f26eedf8149ac867c4b297dddaaef4	e95fb4f3-d8ac-456c-b194-edb974092c96	nextflow run main_sole.nf -c main_sole.config -profile docker
 2024-09-26 23:28:54	16.3s	angry_rosalind	OK	664a9d7c48c6dc83ac9ff28d0f909215	c1bf7cbf-1a60-4a89-992f-a67c8890e159	nextflow run main_sole.nf -c main_sole.config -profile docker
+2024-10-07 15:46:52	-	high_pauling	-	fd7d37b61c7332d34523761463ff60d7	264ecf0e-3e32-4490-a30a-80e4758eb901	nextflow run main.nf -profile docker
+2024-10-07 15:47:15	-	golden_mahavira	-	a468c411aa01069c08715d74d93f4ef4	978e2847-206f-45c9-88a3-994bb5831db9	nextflow run main_sole_demo.nf -profile docker
+2024-10-07 15:47:59	-	maniac_linnaeus	-	fb050beabaedf749552cf6a37c4b5ded	d3781e05-a803-4c75-8e9e-383cdd8338a6	nextflow run main_sole_demo.nf -profile docker
+2024-10-07 15:48:20	-	scruffy_celsius	-	c55088e97df3af42b2ada2a7ab01f0d5	a404f1af-c4e6-490b-b3ea-20a44375dd8d	nextflow run main_sole_demo.nf -profile docker
+2024-10-07 15:49:11	2.1s	fervent_lattes	OK	76a3f5fccbf4a8dac63d0840481508bf	a5554fdd-889d-4655-babb-b9b84ec4e476	nextflow run main_sole_demo.nf -profile docker
+2024-10-07 15:51:01	-	jovial_avogadro	-	88e5f1f05fd848d44b1f9648aacbc31c	43374206-fab5-459c-975c-2b67d6d8815b	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.nf
+2024-10-07 15:52:32	2.3s	dreamy_ptolemy	ERR	76a3f5fccbf4a8dac63d0840481508bf	0a80dafa-c35a-4928-a202-d3bf444e1d91	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 15:53:13	9.7s	sad_ptolemy	ERR	76a3f5fccbf4a8dac63d0840481508bf	d865a755-b582-4f71-903d-965626968dfe	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 15:55:20	8s	stupefied_laplace	ERR	07d53102fe9d83851016b03db20cc76e	86447fa2-0d66-468c-b00f-43e229ca9ebb	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 15:56:30	6.9s	zen_jang	ERR	a90233c243ceaa2f46d68058cd77692e	71aff281-f5b7-4498-b9f5-04a5f946ddcd	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 16:08:30	9.5s	drunk_yonath	ERR	445739021bd10814ed3d79a42fab9610	433a5c80-8a6c-4bd2-9bad-60f4b9c4255a	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 16:10:53	8s	zen_avogadro	ERR	29137de8eb509500d9d2e6a6d9dedd2e	0279bc4a-2b02-4bca-a899-859c7b5fabeb	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 16:14:56	7.8s	mighty_miescher	ERR	529da4a8bcac9346c204aac7beb10780	eb8caa63-ebfe-467b-9995-6cfa41907e65	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 16:15:36	23.4s	distracted_meucci	ERR	54fa9058ef99aa2320e498b1f16d2071	edcd209a-8a62-44f8-8826-8109bad5e508	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 16:17:02	3.4s	amazing_baekeland	ERR	12fd6b80e71f33fc36d2613804ff29c1	5cbab579-dd9c-4e53-942b-0d8651243c6e	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 16:17:47	6.9s	nice_lichterman	ERR	39b6f28efc66e6719c8dfc3321ba627a	e4a02a2a-5f20-4f6c-af87-f4a8ca5d202d	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 16:19:30	9.7s	spontaneous_laplace	OK	39b6f28efc66e6719c8dfc3321ba627a	638f1f3c-b289-42f4-b6e4-0051d5f7b145	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 16:20:00	2.2s	magical_blackwell	OK	39b6f28efc66e6719c8dfc3321ba627a	638f1f3c-b289-42f4-b6e4-0051d5f7b145	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config -resume 638f1f3c-b289-42f4-b6e4-0051d5f7b145
+2024-10-07 16:20:27	-	angry_wiles	-	bfda38318d254a3a12949fb8110484b3	638f1f3c-b289-42f4-b6e4-0051d5f7b145	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config -resume 638f1f3c-b289-42f4-b6e4-0051d5f7b145
+2024-10-07 16:20:44	2s	backstabbing_planck	OK	0759d0b7e2bf4b09684d3ba87ec8b112	638f1f3c-b289-42f4-b6e4-0051d5f7b145	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config -resume 638f1f3c-b289-42f4-b6e4-0051d5f7b145
+2024-10-07 16:21:26	9.6s	cranky_williams	OK	0759d0b7e2bf4b09684d3ba87ec8b112	22376cc7-86c9-414d-ba5d-a19d4a0cb67a	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 16:22:38	11s	shrivelled_laplace	OK	0759d0b7e2bf4b09684d3ba87ec8b112	8e7560de-e061-4d35-9e8e-cbf8dbf77fcc	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 16:22:57	9.4s	modest_church	OK	0759d0b7e2bf4b09684d3ba87ec8b112	55af30a0-425d-4495-b947-f8bbce13d628	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 16:23:52	10s	high_davinci	OK	0759d0b7e2bf4b09684d3ba87ec8b112	679c6fed-6398-4f64-821a-32c00f6ec342	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 16:25:05	9.9s	friendly_bardeen	OK	0759d0b7e2bf4b09684d3ba87ec8b112	3bf1fd3a-5f9f-4793-b594-b466d7ffeb01	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 16:26:02	9.8s	serene_swartz	OK	a6c41808017e33fc96493f6d86fd23a5	1b0b7527-5b46-4000-8195-23bf569d6103	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 16:27:10	-	determined_khorana	-	760a34090b8cdff6e1cb1cb0ef65633a	5364a6f5-9c67-474f-a6a0-9b53825dc32f	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 16:27:25	6.1s	loving_goodall	ERR	7f4b8025523bc21a77591bc421dd090d	ba06fc25-51e3-4929-a3b4-a1d7191f5217	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 16:31:31	7.8s	cheeky_aryabhata	ERR	3537dadff4a4a9332fed8c8f3e0f2b73	9ba49ca2-9cc3-4b99-a309-cd5526aa7c4f	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 16:33:51	10.2s	nasty_sax	OK	6d1256047e88e46b556abd54d795a61a	701024d8-ab54-4525-9935-113500fdab63	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config
+2024-10-07 16:35:53	4.7s	special_pike	OK	76c276ff9d06b9723778169200b104b8	701024d8-ab54-4525-9935-113500fdab63	nextflow run main_sole_demo.nf -profile docker -c main_sole_demo.config -resume 701024d8-ab54-4525-9935-113500fdab63
