@@ -1,0 +1,3 @@
+sample,fastq_1,fastq_2
+sample1,/Users/kaihu/GitHub/test-preprocess/fq/sample1.fq.gz,/Users/kaihu/GitHub/test-preprocess/fq/sample2.fq.gz
+sample1,/Users/kaihu/GitHub/test-preprocess/fq/sample1_1.fq.gz,/Users/kaihu/GitHub/test-preprocess/fq/sample2_1.fq.gz
